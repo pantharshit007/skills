@@ -1,5 +1,5 @@
 ---
-name: advertisement-tech
+name: ad-tech
 description: >
   Expert in Advertisement Technology (AdTech), programmatic advertising, yield management,
   ad serving architecture, and publisher monetization. Use this skill whenever the user
