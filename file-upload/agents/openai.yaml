@@ -1,0 +1,3 @@
+interface:
+  display_name: "File Upload"
+  short_description: "Attach media to GitHub pull requests and issues"
